@@ -1,0 +1,26 @@
+
+(2 -> 5), the Shortest path is : [ 50 ]
+The route of the shortest distance is:
+-> Zububa
+
+
+
+(3 -> 15), the Shortest path is : [ 689 ]
+The route of the shortest distance is:
+-> Al Jalama
+-> Kafr Dan
+-> Umm arRihan
+-> Al Jameelat
+-> Al Araqa
+-> Al Yamun
+-> Arrana
+-> Khirbet Suruj
+-> Jenin
+-> Birqin
+-> Kufeirit
+-> Umm atTut
+-> Imreiha
+-> Bartaa ashSharqiya
+-> Dhaher alMalih
+
+
